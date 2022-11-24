@@ -49,6 +49,7 @@ ML stack:</h3>
 * Interm at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
 
 ### :shipit: Some competitions
+* 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
 * 5/25 [Moscow City Hack](https://aiijc.com/ru/) "Bot for studying" *2022* | [Solution](https://github.com/triflt/b_bot)
 * 7/70 [RuCODE 5.0](https://rucode.net) "AI in vocation salary prediction" *2022*
 * [More TECH 4.0](https://moretech.vtb.ru/) "AI in prediction of buisness news" *2022* | [Solution](https://github.com/leffff/vtb_more_tech)
