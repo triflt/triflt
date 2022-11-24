@@ -64,8 +64,3 @@ ML stack:</h3>
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/daniilstrizhakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/daniilstrizhakov" height="30" width="40" /></a>
 </p>
-
-
-<h3 align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn-images-1.medium.com/max/2000/1*HN7Psu4WPRUjviY4STCG-A.png" alt="python" width="800" height="400"/>
-    </a>
