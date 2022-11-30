@@ -1,11 +1,6 @@
-<h2 align="left">Hi 👋, My name is Daniil Strizhakov</h1>
+
 <h3 align="left">I'm a beginner Machine Learning Engineer and Data Scientist</h3>
 
-- 🌱 I’m currently learning **DL**
-
-- 💬 Ask me about **ML/DL** and **math**
-
-- 📫 How to reach me: **daniilstrijakov@gmail.com** 
 
 <p align="left">
 </p>
