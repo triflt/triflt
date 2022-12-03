@@ -41,7 +41,7 @@ ML stack:</h3>
 * [Tinkoff Generation Deep Learning](https://fintech.tinkoff.ru/school/generation/) (*Since 2022*)
 
 ### 💻 Work experience
-* Interm at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
+* Intern at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
 
 ### :shipit: Some competitions
 * 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
