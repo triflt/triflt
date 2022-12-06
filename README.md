@@ -44,6 +44,7 @@ ML stack:</h3>
 * Intern at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
 
 ### :shipit: Some competitions
+* 2/15 [Avanpost Challenge](https://avanpostchallenge.ru) "Transfer learning for ResNet50" | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB)
 * 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
 * 5/25 [Moscow City Hack](https://aiijc.com/ru/) "Bot for studying" *2022* | [Solution](https://github.com/triflt/b_bot)
 * 7/70 [RuCODE 5.0](https://rucode.net) "AI in vocation salary prediction" *2022*
