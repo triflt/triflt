@@ -57,7 +57,7 @@ ML stack:</h3>
 * "Rosatom math olympiad" prize-winner
 
 
-<h3 align="left">My Kaggle... </h3>
+
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/daniilstrizhakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/daniilstrizhakov" height="30" width="40" /></a>
 </p>
