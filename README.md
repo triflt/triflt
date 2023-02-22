@@ -38,7 +38,8 @@ ML stack:</h3>
 
 * [NUST MISiS](https://en.misis.ru) (*Since 2021*)
 * [Deep Learning School](https://en.misis.ru) (*2021-2022*) [Diploma](https://drive.google.com/file/d/10tAqERltbf7fCIIemIKEynjzTAW_4Psd/view?usp=sharing)
-* [Tinkoff Generation Deep Learning](https://fintech.tinkoff.ru/school/generation/) (*Since 2022*)
+* [Tinkoff Generation Deep Learning](https://fintech.tinkoff.ru/school/generation/) (*2022-2023*) [Diploma](https://drive.google.com/file/d/1O4xR2IxkStN9NEetxGimnzJLbO-1eGdQ/view?usp=share_link) 
+* [Tinkoff Generation DL Advanced](https://fintech.tinkoff.ru/school/generation/) (*Since 2023*)
 
 ### 💻 Work experience
 * Intern at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
