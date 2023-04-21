@@ -28,8 +28,7 @@ ML stack:</h3>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     </a>
-    
-    </p> 
+</p> 
     
 ### 🎓 Education
 
