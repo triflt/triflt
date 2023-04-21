@@ -29,9 +29,6 @@ ML stack:</h3>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     </a>
     
-  <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="50" height="50"/>
-  </a>  
     </p> 
     
 ### 🎓 Education
