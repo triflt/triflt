@@ -6,29 +6,7 @@
 </p>
 
 <h3 align="left">
-ML stack:</h3>
-<p align="left">
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-    
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-    </a>
-    
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"        height="40"/>
-   </a>
-
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-    </a>
-    
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-    </a>
-</p> 
     
 ### 🎓 Education
 
@@ -38,9 +16,10 @@ ML stack:</h3>
 * [Tinkoff Generation DL Advanced](https://fintech.tinkoff.ru/school/generation/) (*Since 2023*)
 
 ### 💻 Work experience
-* Intern at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
+* Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
+* Intern MLE at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
 
-### :shipit: Some competitions
+### 🤼 Some competitions
 * 2/15 [Avanpost Challenge](https://avanpostchallenge.ru) "Transfer learning for ResNet50" *2022* | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB)
 * 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
 * 5/25 [Moscow City Hack](https://aiijc.com/ru/) "Bot for studying" *2022* | [Solution](https://github.com/triflt/b_bot)
@@ -49,9 +28,19 @@ ML stack:</h3>
 
 
 ### 🔝 Other Achievements
-* ["Tinkoff Scholarship"](https://fintech.tinkoff.ru/activities/scholarship/) holder
-* "Moscow math olympiad for students" prize-winner
-* "Rosatom math olympiad" prize-winner
+* ["Tinkoff Scholarship"](https://fintech.tinkoff.ru/activities/scholarship/) holder (*2022 - 2023*)
+* Educational practice at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
+* "Moscow math olympiad for students" prize-winner (*2023*)
+* "Rosatom math olympiad" prize-winner (*2021*)
+
+### Contacts
+<a href="https://t.me/trifltt" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="30" height="30"/> 
+</a>
+
+<a href="https://www.linkedin.com/in/daniil-strizhakov-99a883241" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="30" height="30"/> 
+</a>
 
 
 
