@@ -1,5 +1,5 @@
 
-<h3 align="left">I'm a beginner Machine Learning Engineer and Data Scientist</h3>
+<h3 align="left">I'm Machine Learning Engineer and Data Scientist</h3>
 
 
 <p align="left">
