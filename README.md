@@ -16,8 +16,8 @@
 * [Tinkoff Generation DL Advanced](https://fintech.tinkoff.ru/school/generation/) (*Since 2023*)
 
 ### 💻 Work experience
+* Junior MLE at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
 * Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
-* Intern MLE at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
 
 ### 🤼 Some competitions
 * 2/15 [Avanpost Challenge](https://avanpostchallenge.ru) "Transfer learning for ResNet50" *2022* | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB)
