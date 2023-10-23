@@ -1,6 +1,4 @@
-
 <h3 align="left">I'm Machine Learning Engineer and Data Scientist</h3>
-
 
 <p align="left">
 </p>
