@@ -18,7 +18,7 @@
 * Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
 
 ### 🤼 Some competitions
-* 2/50 [Data Wagon Hack](https://datawagon.ru) Forecasting demand for freight railway transportation *2023* | [Solution](https://github.com/triflt/data-wagon)
+* 2/50 [Data Wagon Hack](https://datawagon.ru) "Forecasting demand for freight railway transportation" *2023* | [Solution](https://github.com/triflt/data-wagon)
 * 2/15 [Avanpost Challenge](https://avanpostchallenge.ru) "Transfer learning for ResNet50" *2022* | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB)
 * 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
 * 5/25 [Moscow City Hack](https://aiijc.com/ru/) "Bot for studying" *2022* | [Solution](https://github.com/triflt/b_bot)
