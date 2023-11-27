@@ -5,17 +5,15 @@
 
 <h3 align="left">
 
-    
+### 💻 Work experience
+* **Junior MLE** at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
+* Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
 ### 🎓 Education
 
 * [MISiS University](https://en.misis.ru) (*Since 2021*)
 * [Deep Learning School](https://en.misis.ru) (*2021-2022*) [Diploma](https://drive.google.com/file/d/10tAqERltbf7fCIIemIKEynjzTAW_4Psd/view?usp=sharing)
 * [Tinkoff Generation Deep Learning](https://fintech.tinkoff.ru/school/generation/) (*2022-2023*) [Diploma](https://drive.google.com/file/d/1O4xR2IxkStN9NEetxGimnzJLbO-1eGdQ/view?usp=share_link) 
 * [Tinkoff Generation DL Advanced](https://fintech.tinkoff.ru/school/generation/) (*Since 2023*)
-
-### 💻 Work experience
-* Junior MLE at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
-* Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
 
 ### 🤼 Some competitions
 * 2/50 [Data Wagon Hack](https://datawagon.ru) "Forecasting demand for freight railway transportation" *2023* | [Solution](https://github.com/triflt/data-wagon)
