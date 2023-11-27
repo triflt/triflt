@@ -26,6 +26,7 @@
 
 ### 🔝 Other Achievements
 * ["Tinkoff Scholarship"](https://fintech.tinkoff.ru/activities/scholarship/) holder (*2022 - 2023*)
+* [MISIS AI Lab](https://misisailab.github.io) lecturer (*2022 - now*)
 * Educational practice at [NeuroSputnik](https://neurosputnik.ru/) (*June - August 2022*) - Computer Vision
 * "Moscow math olympiad for students" prize-winner (*2023*)
 * "Rosatom math olympiad" prize-winner (*2021*)
