@@ -15,6 +15,7 @@
 * [Tinkoff Gen DL & Tinkoff Gen DL Advanced](https://fintech.tinkoff.ru/school/generation/) (*2022-2023*) [Diploma](https://drive.google.com/file/d/1O4xR2IxkStN9NEetxGimnzJLbO-1eGdQ/view?usp=share_link)
 
 ### 🤼 Some competitions
+* 4/25 [IT Purple Hack](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/pctljuf4n1-it-purple-hack) "Advanced RAG system" *2024* | [Solution](https://github.com/triflt/it-purple-hack)
 * 2/50 [Data Wagon Hack](https://datawagon.ru) "Forecasting demand for freight railway transportation" *2023* | [Solution](https://github.com/triflt/data-wagon)
 * 2/15 [Avanpost Challenge](https://avanpostchallenge.ru) "Transfer learning for ResNet50" *2022* | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB)
 * 2/69 [RuCODE 6.0](https://rucode.net/iskusstvennyj-intellekt/) "Car colour classification" *2022* | [Solution](https://github.com/leffff/rucode_6)
