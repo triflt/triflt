@@ -6,7 +6,7 @@
 <h3 align="left">
 
 ### 💻 Work experience
-* **MLE** at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP
+* **MLE** at [Tinkoff](https://www.tinkoff.ru/) (*June 2023 - now*) - NLP, LLMs
 * Intern DS at [Greenatom](https://career.habr.com/companies/greenatom) (*April - June 2023*) - Computer Vision
 ### 🎓 Education
 
