@@ -62,7 +62,7 @@ Building production LLM agents at T-Bank · researching autoregressive ↔ diffu
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=trifltt&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trifltt&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=triflt&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triflt&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400)
 
 </div>
